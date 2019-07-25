@@ -1,1 +1,1 @@
-# microhex-alphabet
+# microhex alphabet
